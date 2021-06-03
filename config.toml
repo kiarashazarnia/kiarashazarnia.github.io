@@ -21,7 +21,7 @@ builtWith = true
 mainSections = ["post"]
 
 ## Set custom theme color.
-# themeColor = "#fc2812"
+themeColor = "#0E6655"
 
   [[params.socialIcons]]
   icon = "fa-linkedin"
@@ -46,8 +46,14 @@ mainSections = ["post"]
 [menu]
 
   [[menu.main]]
-  name = "Posts"
+  name = "About"
+  identifier = "about"
   weight = 100
+  url = "/about/"
+
+  [[menu.main]]
+  name = "Posts"
+  weight = 200
   identifier = "posts"
   url = "/posts/"
 
@@ -62,18 +68,6 @@ mainSections = ["post"]
   weight = 200
   identifier = "tags"
   url = "/tags/"
-
-  [[menu.main]]
-  name = "About"
-  identifier = "about"
-  weight = 10
-  url = "/about/"
-
-  [[menu.main]]
-  name = "Contact"
-  identifier = "contact"
-  weight = 20
-  url = "/contact/"
 
 [markup]
 
