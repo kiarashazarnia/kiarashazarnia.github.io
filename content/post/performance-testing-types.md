@@ -1,7 +1,7 @@
 +++
 author = "Kiarash Azarnia"
 title = "Types of Performance Testing"
-date = "2021-01-01"
+date = "2021-06-04"
 description = "Explanation of different types of performance testing."
 tags = [
     "performance-testing", 
