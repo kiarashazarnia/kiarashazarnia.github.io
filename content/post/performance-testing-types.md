@@ -32,14 +32,13 @@ If you google the topic you will find some articles with the exact title, but I 
 1. Load test
 2. Stress test
 3. Spike test
-4. Volume test
-5. Scalability test
+4. Endurance test
 
 ## What is the Designed Load?
 
 To plunge into the differences, it is important to be aware of the concept of __Load__.
 
-#### Load is the number of __services__ that the system under test is providing in the unit of time. 
+> Load is the number of __services__ that the system under test is providing in the unit of time. 
 
 The definition of service depends on your system functionality: 
 
@@ -48,11 +47,11 @@ The definition of service depends on your system functionality:
 
 So the __designed load__ is understandable now.
 
-#### The load that is applicable for the system working acceptable, with a well-defined environment including network, hardware, and operating system configuration, is called the __designed load__.
+> The load that is applicable for the system working acceptable, with a well-defined environment including network, hardware, and operating system configuration, is called the __designed load__.
 
 ### Load Test
 
-#### Load test is testing the system under the designed load.
+> Load test is testing the system under the designed load.
 
 So if you want to verify the system's performance in the presumed situation, this is the road to go. In load testing, the focus is usually on the performance measures like latency or response time.
 
@@ -71,7 +70,7 @@ It is also convenient to summerize a load testing report to some percentile valu
 So according to the chart, we can simply say the system's 99th latency percentile is 300 milliseconds. Be careful about this kind of summarization, it could be confusing and distorting the performance testing results. Gil Tene has an awesome talk calling it __percent-lie__! Highly recommended.
 
 ### Stress Test
-#### Stress test is testing the system beyond the designed load.
+> Stress test is testing the system beyond the designed load.
 
 Stress testing's goal is assessing the system's performance measures beyond the normal situation, especially the capacity load of the system or the system's crash point. With a functioning stress test plan, the development team could enhance the capacity of the system on each iteration based on the results. The load pattern of a stress test of the considered system is illustrated in the next chart.
 
@@ -103,7 +102,7 @@ It is challenging to design and represent the performance requirements of the sy
 
 #### Final Note!
 
-There are more performance testing types like Microbenchmark that are not in the scope of this article focusing on the most common types. I hope I could study, learn, and share more.
+There are more performance testing types like Microbenchmarking, Volume Testing, Scalability Testing, and so on that are not in the scope of this article focusing on the most common types. I hope I could study, learn, and share more.
 
 ### References and Beneficial Links
 
