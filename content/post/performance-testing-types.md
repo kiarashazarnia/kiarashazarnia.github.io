@@ -15,6 +15,11 @@ series = ["performance-testing-types"]
 aliases = ["article"]
 +++
 
+
+
+This article offers a practical explanation of the concepts of the performance testing types.
+<!--more-->
+
 ## Introduction
 
 Performance testing is one of the most important and common types of quality testing because performance is not a well-defined functional requirement, and exactly where is the beginning of the debate. So it is crucial to have a concise testing plan to design and set up a beneficial performance testing solution.
