@@ -21,7 +21,8 @@ builtWith = true
 mainSections = ["post"]
 
 ## Set custom theme color.
-themeColor = "#0E6655"
+themeColor = "#7B241C"
+## blue "#0E6655"
 
   [[params.socialIcons]]
   icon = "fa-linkedin"
