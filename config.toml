@@ -1,5 +1,7 @@
 theme = "soho"
 baseurl = "https://kiarashazarnia.github.io/"
+disqusShortname = "kiarashazarnia"
+googleAnalytics = "G-PBK56M9G9N"
 languageCode = "en"
 title = "Kiarash Azarnia"
 DefaultContentLanguage = "en"
@@ -9,7 +11,7 @@ enableEmoji = true
 paginate = 5
 
 [params]
-title = "Kiarash Azarnia 1"
+title = "Kiarash Azarnia"
 description = "Software Engineer"
 # gravatar = "soho@example.com"
 images = ["images/profile.png"]
