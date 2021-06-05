@@ -22,7 +22,7 @@ This article offers a practical explanation of the concepts of the performance t
 
 ## Introduction
 
-Performance testing is one of the most important and common types of quality testing because performance is not a well-defined functional requirement, and exactly where is the beginning of the debate. So it is crucial to have a concise testing plan to design and set up a beneficial performance testing solution.
+Performance testing is one of the most important and common types of quality testing because performance is not a well-defined functional requirement, and exactly here is where the debate begins. So it is crucial to have a concise test plan to design and set up a beneficial performance testing solution.
 
 #### What type of performance testing do I need?
 It depends on your performance requirement.
@@ -40,9 +40,9 @@ To plunge into the differences, it is important to be aware of the concept of __
 
 > Load is the number of __services__ that the system under test is providing in the unit of time. 
 
-The definition of service depends on your system functionality: 
+The definition of service depends on your system's functionality: 
 
-- For a transactional banking solution: The service is the transaction and the unit of measure for the load of the system will be __transaction per second__ (known as _TPS_).
+- For a transactional banking solution: The service is the transaction and the unit of measure for the load of the system will be __transaction per second__ (known as `TPS`).
 - For an instant messaging system like telegram, service can be considered as the number of concurrent users having a persistent TLS socket connecting to the server.
 
 So the __designed load__ is understandable now.
