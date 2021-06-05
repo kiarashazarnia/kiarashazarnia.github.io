@@ -40,7 +40,7 @@ To plunge into the differences, it is important to be aware of the concept of __
 
 > Load is the number of __services__ that the system under test is providing in the unit of time. 
 
-The definition of service depends on your system's functionality: 
+The definition of service depends on the system's functionality: 
 
 - For a transactional banking solution: The service is the transaction and the unit of measure for the load of the system will be __transaction per second__ (known as `TPS`).
 - For an instant messaging system like telegram, service can be considered as the number of concurrent users having a persistent TLS socket connecting to the server.
@@ -81,13 +81,13 @@ Although we can report the latency distribution in stress test but note that if 
 
 ![chart](5.png)
 
-It is beneficial to have a performance acceptance criterion to determine if the system passed a specific stage of stress or not. The considered systems acceptance criterion is `Success Rate = 80%` so it has passed the test until the second stage with `200 TPS` and failed in the next stages.
+It is beneficial to have a performance acceptance criterion to determine if the system passed a specific stage of stress or not. The considered system's acceptance criterion is `Success Rate = 80%` so it has passed the test until the second stage with `200 TPS` and failed in the next stages.
 
 ## Spike Test
 
 A Spike test is testing a system's behavior when it is exposed to a spike of load.
 
-I am not so much experienced in this type of performance testing but it seems that the main challenge in this type of test is defining the load pattern and the behavior measurement to be concise and repeatable.
+It seems that the main challenge in this type of test is defining the load pattern and the behavior measurement to be concise and repeatable.
 ![chart](6.png)
 
 ## Endurance Test
@@ -106,8 +106,9 @@ There are more performance testing types like Microbenchmarking, Volume Testing,
 
 ### References and Beneficial Links
 
-It is not a scientific article so excuse me for not respecting conventional referencing formats. Here are some links I have used and I recommend you to check them out:
+This is not an academic article so excuse me for not respecting conventional referencing formats. Here are some links I have used and I recommend you to check them out:
 
 1. [Gil Tene's awesome talk: How not to measure latency?](https://youtu.be/lJ8ydIuPFeU)
 2. [A good book: The art of application performance testing](https://www.oreilly.com/library/view/the-art-of/9781491900536/)
 3. [K6: a performance testing tool](https://k6.io/)
+4. [Test automation in devops: An informative course](https://testautomationu.applitools.com/test-automation-in-devops/)
