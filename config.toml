@@ -1,6 +1,6 @@
 theme = "soho"
 baseurl = "https://kiarashazarnia.github.io/"
-disqusShortname = "kiarashazarnia"
+# disqusShortname = "kiarashazarnia"
 googleAnalytics = "G-PBK56M9G9N"
 languageCode = "en"
 title = "Kiarash Azarnia"
