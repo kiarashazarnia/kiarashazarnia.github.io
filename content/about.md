@@ -8,7 +8,7 @@ author = "Kiarash Azarnia"
 
 Hi!
 
-- I am Kiarash, simply a software developer trying to make a positive impact as an engineer in the cloud computing industry and a graduate student in academia by doing my best. 
+- I am Kiarash, simply a software developer trying to make a positive impact as an engineer in the cloud computing industry of Iran and a graduate student in academia by doing my best. 
 - I am currently studying software engineering master's at [Amirkabir University of Tehran (Polytechnic)](https://aut.ac.ir/). Before that, I spent 5 years pursuing bachelor's degrees in Computer Engineering at the [University of Tehran](https://ut.ac.ir/). My technical interests are: 
   - Performance Engineering
   - Software Testing
@@ -27,4 +27,4 @@ You can check out my accounts below:
   - [Email](mailto:kiarash.azarnia@gmail.com)
 
 
-- __I always welcome new friends. My social links are available in the sidebar.__
+- __I always welcome new friends. Apart from the email link, my social links are available under the profile picture.__
