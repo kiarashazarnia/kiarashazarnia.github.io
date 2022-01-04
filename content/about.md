@@ -8,8 +8,9 @@ author = "Kiarash Azarnia"
 
 Hi!
 
-- I am Kiarash, simply a software developer trying to make a positive impact as an engineer in the cloud computing industry of Iran and a graduate student in academia by doing my best. 
-- I am currently studying software engineering master's at [Amirkabir University of Tehran (Polytechnic)](https://aut.ac.ir/). Before that, I spent 5 years pursuing bachelor's degrees in Computer Engineering at the [University of Tehran](https://ut.ac.ir/). My technical interests are: 
+- I am Kiarash, an Iranian citizen trying to make a positive impact by doing my best as a software engineer in the cloud computing industry of my country and a graduate student in academia.
+- I am currently studying software engineering master's at [Amirkabir University of Tehran (Polytechnic)](https://aut.ac.ir/). Before that, I spent 5 years pursuing bachelor's degrees in Computer Engineering at the [University of Tehran](https://ut.ac.ir/). 
+- My technical interests are mostly in these fields: 
   - Performance Engineering
   - Software Testing
   - Distributed Systems
