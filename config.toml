@@ -41,6 +41,16 @@ themeColor = "#7B241C"
   title = "Twitter"
   url = "https://twitter.com/kiarashazarnia"
 
+  [[params.socialIcons]]
+  icon = "fa-instagram"
+  title = "Instagram"
+  url = "https://www.instagram.com/kiarashazarnia/"
+
+  [[params.socialIcons]]
+  icon = "fa-medium"
+  title = "Medium"
+  url = "https://medium.com/@kiarashazarnia"
+
 [taxonomies]
   series = "series"
   category = "categories"
