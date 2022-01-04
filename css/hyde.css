@@ -299,6 +299,7 @@ ul.posts li,
 }
 
 .share-buttons {
+  display: none;
   text-align: center;
   font-size: 2rem;
   margin-top: 2rem;
