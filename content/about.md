@@ -28,4 +28,4 @@ You can check out my accounts below:
   - [Email](mailto:kiarash.azarnia@gmail.com)
 
 
-- __I always welcome new friends. Apart from the email link, my social links are available under the profile picture.__
+- __I always welcome new friends. Apart from the email, my social links are available under the profile picture.__
