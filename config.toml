@@ -23,7 +23,7 @@ builtWith = true
 mainSections = ["post"]
 
 ## Set custom theme color.
-themeColor = "#7B241C"
+themeColor = "#0F52BA"
 ## blue "#0E6655"
 
   [[params.socialIcons]]
