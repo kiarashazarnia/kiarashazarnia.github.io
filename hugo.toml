@@ -1,3 +1,21 @@
 baseURL = 'https://kiarashazarnia.ir/'
 languageCode = 'en-us'
+defaultContentLanguage = 'en'
+defaultContentLanguageInSubdir = true
 title = 'Chaotic Fractal'
+
+
+[languages]
+
+  [languages.en]           # already existing language
+    languageName  = 'English'
+    weight        = 1      # lower weight shows first in menus
+    title         = 'Chaotic Fractal'
+    contentDir    = 'content'    # keep using your current content/
+
+  [languages.fa]           # ← NEW
+    languageName  = 'فارسی'
+    weight        = 2
+    title         = 'فرکتال آشوبی'
+    languageDirection = 'rtl'    # hugo-book reads this and adds dir="rtl"
+    contentDir    = 'content-fa' # we’ll create this folder next
