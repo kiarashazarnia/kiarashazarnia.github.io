@@ -11,10 +11,10 @@
   translation: بسط دادن
 
 - id: Categories
-  translation: دسته بندی ها
+  translation: دسته بندی‌ها
 
 - id: Tags
-  translation: تگ ها
+  translation: تگ‌ها
 
 - id: bookSearchConfig
   translation: '{ cache: true, encode: false, rtl: true, split: /\s+/, tokenize: "forward"}'
