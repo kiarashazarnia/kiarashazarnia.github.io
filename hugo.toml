@@ -3,7 +3,7 @@ languageCode = 'en-us'
 defaultContentLanguage = 'en'
 defaultContentLanguageInSubdir = true
 title = 'Chaotic Fractal'
-
+description = "
 
 [languages]
 
@@ -18,4 +18,4 @@ title = 'Chaotic Fractal'
     weight        = 2
     title         = 'فرکتال آشوبی'
     languageDirection = 'rtl'    # hugo-book reads this and adds dir="rtl"
-    contentDir    = 'content-fa' # we’ll create this folder next
+    contentDir    = 'content-fa'
