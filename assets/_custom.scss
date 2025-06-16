@@ -1,0 +1,80 @@
+@font-face {
+    font-family: "Vazirmatn";
+    font-weight: 300;
+    font-style: normal;
+    font-display: fallback;
+    src: url("/fonts/vazirmatn/Vazirmatn-Thin.woff2") format("woff2");
+    unicode-range: U+0600-06FF, U+0750-077F, U+08A0-08FF, U+FB50-FDFF, U+FE70-FEFF;
+}
+
+@font-face {
+    font-family: "Vazirmatn";
+    font-weight: 300;
+    font-style: normal;
+    font-display: fallback;
+    src: url("/fonts/vazirmatn/Vazirmatn-ExtraLight.woff2") format("woff2");
+    unicode-range: U+0600-06FF, U+0750-077F, U+08A0-08FF, U+FB50-FDFF, U+FE70-FEFF;
+}
+
+@font-face {
+    font-family: "Vazirmatn";
+    font-weight: 300;
+    font-style: normal;
+    font-display: fallback;
+    src: url("/fonts/vazirmatn/Vazirmatn-Light.woff2") format("woff2");
+    unicode-range: U+0600-06FF, U+0750-077F, U+08A0-08FF, U+FB50-FDFF, U+FE70-FEFF;
+}
+
+@font-face {
+    font-family: "Vazirmatn";
+    font-weight: 400;
+    font-style: normal;
+    font-display: fallback;
+    src: url("/fonts/vazirmatn/Vazirmatn-Regular.woff2") format("woff2");
+    unicode-range: U+0600-06FF, U+0750-077F, U+08A0-08FF, U+FB50-FDFF, U+FE70-FEFF;
+}
+
+@font-face {
+    font-family: "Vazirmatn";
+    font-weight: 500;
+    font-style: normal;
+    font-display: fallback;
+    src: url("/fonts/vazirmatn/Vazirmatn-Medium.woff2") format("woff2");
+    unicode-range: U+0600-06FF, U+0750-077F, U+08A0-08FF, U+FB50-FDFF, U+FE70-FEFF;
+}
+
+@font-face {
+    font-family: "Vazirmatn";
+    font-weight: 600;
+    font-style: normal;
+    font-display: fallback;
+    src: url("/fonts/vazirmatn/Vazirmatn-SemiBold.woff2") format("woff2");
+    unicode-range: U+0600-06FF, U+0750-077F, U+08A0-08FF, U+FB50-FDFF, U+FE70-FEFF;
+}
+
+@font-face {
+    font-family: "Vazirmatn";
+    font-weight: 700;
+    font-style: normal;
+    font-display: fallback;
+    src: url("/fonts/vazirmatn/Vazirmatn-Bold.woff2") format("woff2");
+    unicode-range: U+0600-06FF, U+0750-077F, U+08A0-08FF, U+FB50-FDFF, U+FE70-FEFF;
+}
+
+@font-face {
+    font-family: "Vazirmatn";
+    font-weight: 700;
+    font-style: normal;
+    font-display: fallback;
+    src: url("/fonts/vazirmatn/Vazirmatn-ExtraBold.woff2") format("woff2");
+    unicode-range: U+0600-06FF, U+0750-077F, U+08A0-08FF, U+FB50-FDFF, U+FE70-FEFF;
+}
+
+html[lang="fa"], html[dir="rtl"] {
+    font-family: "Vazirmatn", sans-serif;
+}
+
+body[lang="fa"], body[dir="rtl"] {
+    font-family: "Vazirmatn", sans-serif;
+}
+
