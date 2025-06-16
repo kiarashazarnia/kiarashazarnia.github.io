@@ -1,4 +1,4 @@
-baseURL = 'https://kiarashazarnia.ir/'
+baseURL = 'https://blog.kiarashazarnia.ir/'
 languageCode = 'en-us'
 defaultContentLanguage = 'en'
 defaultContentLanguageInSubdir = true
@@ -23,3 +23,6 @@ description = "Chaotic Fractal"
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
+[params.analytics]
+  google = "G-PBK56M9G9N"
