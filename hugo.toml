@@ -19,3 +19,7 @@ description = "Chaotic Fractal"
     title         = 'فرکتال آشوبی'
     languageDirection = 'rtl'    # hugo-book reads this and adds dir="rtl"
     contentDir    = 'content-fa'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
