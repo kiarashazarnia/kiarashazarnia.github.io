@@ -1,6 +1,6 @@
 ### Hugo ###
 # Generated files by hugo
-/public/
+# /public/ in order to commit public folder
 /resources/_gen/
 /assets/jsconfig.json
 hugo_stats.json
