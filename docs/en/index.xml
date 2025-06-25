@@ -1,125 +1,61 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Introduction on Chaotic Fractal</title><link>http://localhost:1313/en/</link><description>Recent content in Introduction on Chaotic Fractal</description><generator>Hugo</generator><language>en</language><lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml"/><item><title>With ToC</title><link>http://localhost:1313/en/docs/example/table-of-contents/with-toc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/en/docs/example/table-of-contents/with-toc/</guid><description>&lt;h1 id="caput-vino-delphine-in-tamen-vias">
- Caput vino delphine in tamen vias
- &lt;a class="anchor" href="#caput-vino-delphine-in-tamen-vias">#&lt;/a>
-&lt;/h1>
-&lt;h2 id="cognita-laeva-illo-fracta">
- Cognita laeva illo fracta
- &lt;a class="anchor" href="#cognita-laeva-illo-fracta">#&lt;/a>
-&lt;/h2>
-&lt;p>Lorem markdownum pavent auras, surgit nunc cingentibus libet &lt;strong>Laomedonque que&lt;/strong>
-est. Pastor &lt;a href="http://est.org/ire.aspx">An&lt;/a> arbor filia foedat, ne &lt;a href="http://www.indiciumturbam.org/moramquid.php">fugit
-aliter&lt;/a>, per. Helicona illas et
-callida neptem est &lt;em>Oresitrophos&lt;/em> caput, dentibus est venit. Tenet reddite
-&lt;a href="http://www.antro-et.net/">famuli&lt;/a> praesentem fortibus, quaeque vis foret si
-frondes &lt;em>gelidos&lt;/em> gravidae circumtulit &lt;a href="http://incurvasustulit.io/illi-virtute.html">inpulit armenta
-nativum&lt;/a>.&lt;/p>
-&lt;ol>
-&lt;li>Te at cruciabere vides rubentis manebo&lt;/li>
-&lt;li>Maturuit in praetemptat ruborem ignara postquam habitasse&lt;/li>
-&lt;li>Subitarum supplevit quoque fontesque venabula spretis modo&lt;/li>
-&lt;li>Montis tot est mali quasque gravis&lt;/li>
-&lt;li>Quinquennem domus arsit ipse&lt;/li>
-&lt;li>Pellem turis pugnabant locavit&lt;/li>
-&lt;/ol>
-&lt;h2 id="natus-quaerere">
- Natus quaerere
- &lt;a class="anchor" href="#natus-quaerere">#&lt;/a>
-&lt;/h2>
-&lt;p>Pectora et sine mulcere, coniuge dum tincta incurvae. Quis iam; est dextra
-Peneosque, metuis a verba, primo. Illa sed colloque suis: magno: gramen, aera
-excutiunt concipit.&lt;/p></description></item><item><title>Without ToC</title><link>http://localhost:1313/en/docs/example/table-of-contents/without-toc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/en/docs/example/table-of-contents/without-toc/</guid><description>&lt;h1 id="at-me-ipso-nepotibus-nunc-celebratior-genus">
- At me ipso nepotibus nunc celebratior genus
- &lt;a class="anchor" href="#at-me-ipso-nepotibus-nunc-celebratior-genus">#&lt;/a>
-&lt;/h1>
-&lt;h2 id="tanto-oblite">
- Tanto oblite
- &lt;a class="anchor" href="#tanto-oblite">#&lt;/a>
-&lt;/h2>
-&lt;p>Lorem markdownum pectora novis patenti igne sua opus aurae feras materiaque
-illic demersit imago et aristas questaque posset. Vomit quoque suo inhaesuro
-clara. Esse cumque, per referri triste. Ut exponit solisque communis in tendens
-vincetis agisque iamque huic bene ante vetat omina Thebae rates. Aeacus servat
-admonitu concidit, ad resimas vultus et rugas vultu &lt;strong>dignamque&lt;/strong> Siphnon.&lt;/p>
-&lt;p>Quam iugulum regia simulacra, plus meruit humo pecorumque haesit, ab discedunt
-dixit: ritu pharetramque. Exul Laurenti orantem modo, per densum missisque labor
-manibus non colla unum, obiectat. Tu pervia collo, fessus quae Cretenque Myconon
-crate! Tegumenque quae invisi sudore per vocari quaque plus ventis fluidos. Nodo
-perque, fugisse pectora sorores.&lt;/p></description></item><item><title>Creating a New Theme</title><link>http://localhost:1313/en/posts/creating-a-new-theme/</link><pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate><guid>http://localhost:1313/en/posts/creating-a-new-theme/</guid><description>&lt;h2 id="introduction">
- Introduction
- &lt;a class="anchor" href="#introduction">#&lt;/a>
-&lt;/h2>
-&lt;p>This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.&lt;/p>
-&lt;p>We&amp;rsquo;ll start with creating a new site with a very basic template. Then we&amp;rsquo;ll add in a few pages and posts. With small variations on that, you will be able to create many different types of web sites.&lt;/p></description></item><item><title>Migrate to Hugo from Jekyll</title><link>http://localhost:1313/en/posts/migrate-from-jekyll/</link><pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate><guid>http://localhost:1313/en/posts/migrate-from-jekyll/</guid><description>&lt;h2 id="move-static-content-to-static">
- Move static content to &lt;code>static&lt;/code>
- &lt;a class="anchor" href="#move-static-content-to-static">#&lt;/a>
-&lt;/h2>
-&lt;p>Jekyll has a rule that any directory not starting with &lt;code>_&lt;/code> will be copied as-is to the &lt;code>_site&lt;/code> output. Hugo keeps all static content under &lt;code>static&lt;/code>. You should therefore move it all there.
-With Jekyll, something that looked like&lt;/p>
-&lt;pre>&lt;code>▾ &amp;lt;root&amp;gt;/
- ▾ images/
- logo.png
-&lt;/code>&lt;/pre>
-&lt;p>should become&lt;/p>
-&lt;pre>&lt;code>▾ &amp;lt;root&amp;gt;/
- ▾ static/
- ▾ images/
- logo.png
-&lt;/code>&lt;/pre>
-&lt;p>Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as &lt;code>CNAME&lt;/code>) to be moved to &lt;code>static&lt;/code>.&lt;/p></description></item><item><title>Getting Started with Hugo</title><link>http://localhost:1313/en/posts/hugoisforlovers/</link><pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate><guid>http://localhost:1313/en/posts/hugoisforlovers/</guid><description>&lt;h2 id="step-1-install-hugo">
- Step 1. Install Hugo
- &lt;a class="anchor" href="#step-1-install-hugo">#&lt;/a>
-&lt;/h2>
-&lt;p>Go to &lt;a href="https://github.com/spf13/hugo/releases">Hugo releases&lt;/a> and download the
-appropriate version for your OS and architecture.&lt;/p>
-&lt;p>Save it somewhere specific as we will be using it in the next step.&lt;/p>
-&lt;p>More complete instructions are available at &lt;a href="https://gohugo.io/getting-started/installing/">Install Hugo&lt;/a>&lt;/p>
-&lt;h2 id="step-2-build-the-docs">
- Step 2. Build the Docs
- &lt;a class="anchor" href="#step-2-build-the-docs">#&lt;/a>
-&lt;/h2>
-&lt;p>Hugo has its own example site which happens to also be the documentation site
-you are reading right now.&lt;/p>
-&lt;p>Follow the following steps:&lt;/p></description></item><item><title/><link>http://localhost:1313/en/docs/example/collapsed/3rd-level/4th-level/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/en/docs/example/collapsed/3rd-level/4th-level/</guid><description>&lt;h1 id="4th-level-of-menu">
- 4th Level of Menu
- &lt;a class="anchor" href="#4th-level-of-menu">#&lt;/a>
-&lt;/h1>
-&lt;h2 id="caesorum-illa-tu-sentit-micat-vestes-papyriferi">
- Caesorum illa tu sentit micat vestes papyriferi
- &lt;a class="anchor" href="#caesorum-illa-tu-sentit-micat-vestes-papyriferi">#&lt;/a>
-&lt;/h2>
-&lt;p>Inde aderam facti; Theseus vis de tauri illa peream. Oculos &lt;strong>uberaque&lt;/strong> non
-regisque vobis cursuque, opus venit quam vulnera. Et maiora necemque, lege modo;
-gestanda nitidi, vero? Dum ne pectoraque testantur.&lt;/p>
-&lt;p>Venasque repulsa Samos qui, exspectatum eram animosque hinc, &lt;a href="http://www.creveratnon.net/apricaaetheriis">aut
-manes&lt;/a>, Assyrii. Cupiens auctoribus
-pariter rubet, profana magni super nocens. Vos ius sibilat inpar turba visae
-iusto! Sedes ante dum superest &lt;strong>extrema&lt;/strong>.&lt;/p></description></item><item><title/><link>http://localhost:1313/en/docs/example/hidden/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/en/docs/example/hidden/</guid><description>&lt;h1 id="this-page-is-hidden-in-menu">
- This page is hidden in menu
- &lt;a class="anchor" href="#this-page-is-hidden-in-menu">#&lt;/a>
-&lt;/h1>
-&lt;h1 id="quondam-non-pater-est-dignior-ille-eurotas">
- Quondam non pater est dignior ille Eurotas
- &lt;a class="anchor" href="#quondam-non-pater-est-dignior-ille-eurotas">#&lt;/a>
-&lt;/h1>
-&lt;h2 id="latent-te-facies">
- Latent te facies
- &lt;a class="anchor" href="#latent-te-facies">#&lt;/a>
-&lt;/h2>
-&lt;p>Lorem markdownum arma ignoscas vocavit quoque ille texit mandata mentis ultimus,
-frementes, qui in vel. Hippotades Peleus &lt;a href="http://gratia.net/tot-qua.php">pennas
-conscia&lt;/a> cuiquam Caeneus quas.&lt;/p>
-&lt;ul>
-&lt;li>Pater demittere evincitque reddunt&lt;/li>
-&lt;li>Maxime adhuc pressit huc Danaas quid freta&lt;/li>
-&lt;li>Soror ego&lt;/li>
-&lt;li>Luctus linguam saxa ultroque prior Tatiumque inquit&lt;/li>
-&lt;li>Saepe liquitur subita superata dederat Anius sudor&lt;/li>
-&lt;/ul>
-&lt;h2 id="cum-honorum-latona">
- Cum honorum Latona
- &lt;a class="anchor" href="#cum-honorum-latona">#&lt;/a>
-&lt;/h2>
-&lt;p>O fallor &lt;a href="http://www.spectataharundine.org/aquas-relinquit.html">in sustinui
-iussorum&lt;/a> equidem.
-Nymphae operi oris alii fronde parens dumque, in auro ait mox ingenti proxima
-iamdudum maius?&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Introduction on Chaotic Fractal</title>
+    <link>http://localhost:1313/en/</link>
+    <description>Recent content in Introduction on Chaotic Fractal</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>With ToC</title>
+      <link>http://localhost:1313/en/docs/example/table-of-contents/with-toc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/docs/example/table-of-contents/with-toc/</guid>
+      <description>&lt;h1 id=&#34;caput-vino-delphine-in-tamen-vias&#34;&gt;&#xA;  Caput vino delphine in tamen vias&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#caput-vino-delphine-in-tamen-vias&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;cognita-laeva-illo-fracta&#34;&gt;&#xA;  Cognita laeva illo fracta&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#cognita-laeva-illo-fracta&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Lorem markdownum pavent auras, surgit nunc cingentibus libet &lt;strong&gt;Laomedonque que&lt;/strong&gt;&#xA;est. Pastor &lt;a href=&#34;http://est.org/ire.aspx&#34;&gt;An&lt;/a&gt; arbor filia foedat, ne &lt;a href=&#34;http://www.indiciumturbam.org/moramquid.php&#34;&gt;fugit&#xA;aliter&lt;/a&gt;, per. Helicona illas et&#xA;callida neptem est &lt;em&gt;Oresitrophos&lt;/em&gt; caput, dentibus est venit. Tenet reddite&#xA;&lt;a href=&#34;http://www.antro-et.net/&#34;&gt;famuli&lt;/a&gt; praesentem fortibus, quaeque vis foret si&#xA;frondes &lt;em&gt;gelidos&lt;/em&gt; gravidae circumtulit &lt;a href=&#34;http://incurvasustulit.io/illi-virtute.html&#34;&gt;inpulit armenta&#xA;nativum&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Te at cruciabere vides rubentis manebo&lt;/li&gt;&#xA;&lt;li&gt;Maturuit in praetemptat ruborem ignara postquam habitasse&lt;/li&gt;&#xA;&lt;li&gt;Subitarum supplevit quoque fontesque venabula spretis modo&lt;/li&gt;&#xA;&lt;li&gt;Montis tot est mali quasque gravis&lt;/li&gt;&#xA;&lt;li&gt;Quinquennem domus arsit ipse&lt;/li&gt;&#xA;&lt;li&gt;Pellem turis pugnabant locavit&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;natus-quaerere&#34;&gt;&#xA;  Natus quaerere&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#natus-quaerere&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Pectora et sine mulcere, coniuge dum tincta incurvae. Quis iam; est dextra&#xA;Peneosque, metuis a verba, primo. Illa sed colloque suis: magno: gramen, aera&#xA;excutiunt concipit.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Without ToC</title>
+      <link>http://localhost:1313/en/docs/example/table-of-contents/without-toc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/docs/example/table-of-contents/without-toc/</guid>
+      <description>&lt;h1 id=&#34;at-me-ipso-nepotibus-nunc-celebratior-genus&#34;&gt;&#xA;  At me ipso nepotibus nunc celebratior genus&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#at-me-ipso-nepotibus-nunc-celebratior-genus&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;tanto-oblite&#34;&gt;&#xA;  Tanto oblite&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#tanto-oblite&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Lorem markdownum pectora novis patenti igne sua opus aurae feras materiaque&#xA;illic demersit imago et aristas questaque posset. Vomit quoque suo inhaesuro&#xA;clara. Esse cumque, per referri triste. Ut exponit solisque communis in tendens&#xA;vincetis agisque iamque huic bene ante vetat omina Thebae rates. Aeacus servat&#xA;admonitu concidit, ad resimas vultus et rugas vultu &lt;strong&gt;dignamque&lt;/strong&gt; Siphnon.&lt;/p&gt;&#xA;&lt;p&gt;Quam iugulum regia simulacra, plus meruit humo pecorumque haesit, ab discedunt&#xA;dixit: ritu pharetramque. Exul Laurenti orantem modo, per densum missisque labor&#xA;manibus non colla unum, obiectat. Tu pervia collo, fessus quae Cretenque Myconon&#xA;crate! Tegumenque quae invisi sudore per vocari quaque plus ventis fluidos. Nodo&#xA;perque, fugisse pectora sorores.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Creating a New Theme</title>
+      <link>http://localhost:1313/en/posts/creating-a-new-theme/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/posts/creating-a-new-theme/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;&#xA;  Introduction&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#introduction&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.&lt;/p&gt;&#xA;&lt;p&gt;We&amp;rsquo;ll start with creating a new site with a very basic template. Then we&amp;rsquo;ll add in a few pages and posts. With small variations on that, you will be able to create many different types of web sites.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Migrate to Hugo from Jekyll</title>
+      <link>http://localhost:1313/en/posts/migrate-from-jekyll/</link>
+      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/posts/migrate-from-jekyll/</guid>
+      <description>&lt;h2 id=&#34;move-static-content-to-static&#34;&gt;&#xA;  Move static content to &lt;code&gt;static&lt;/code&gt;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#move-static-content-to-static&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Jekyll has a rule that any directory not starting with &lt;code&gt;_&lt;/code&gt; will be copied as-is to the &lt;code&gt;_site&lt;/code&gt; output. Hugo keeps all static content under &lt;code&gt;static&lt;/code&gt;. You should therefore move it all there.&#xA;With Jekyll, something that looked like&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code&gt;▾ &amp;lt;root&amp;gt;/&#xA;    ▾ images/&#xA;        logo.png&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;p&gt;should become&lt;/p&gt;&#xA;&lt;pre&gt;&lt;code&gt;▾ &amp;lt;root&amp;gt;/&#xA;    ▾ static/&#xA;        ▾ images/&#xA;            logo.png&#xA;&lt;/code&gt;&lt;/pre&gt;&#xA;&lt;p&gt;Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as &lt;code&gt;CNAME&lt;/code&gt;) to be moved to &lt;code&gt;static&lt;/code&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Getting Started with Hugo</title>
+      <link>http://localhost:1313/en/posts/hugoisforlovers/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/posts/hugoisforlovers/</guid>
+      <description>&lt;h2 id=&#34;step-1-install-hugo&#34;&gt;&#xA;  Step 1. Install Hugo&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#step-1-install-hugo&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Go to &lt;a href=&#34;https://github.com/spf13/hugo/releases&#34;&gt;Hugo releases&lt;/a&gt; and download the&#xA;appropriate version for your OS and architecture.&lt;/p&gt;&#xA;&lt;p&gt;Save it somewhere specific as we will be using it in the next step.&lt;/p&gt;&#xA;&lt;p&gt;More complete instructions are available at &lt;a href=&#34;https://gohugo.io/getting-started/installing/&#34;&gt;Install Hugo&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;step-2-build-the-docs&#34;&gt;&#xA;  Step 2. Build the Docs&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#step-2-build-the-docs&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Hugo has its own example site which happens to also be the documentation site&#xA;you are reading right now.&lt;/p&gt;&#xA;&lt;p&gt;Follow the following steps:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/en/docs/example/collapsed/3rd-level/4th-level/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/docs/example/collapsed/3rd-level/4th-level/</guid>
+      <description>&lt;h1 id=&#34;4th-level-of-menu&#34;&gt;&#xA;  4th Level of Menu&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#4th-level-of-menu&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;caesorum-illa-tu-sentit-micat-vestes-papyriferi&#34;&gt;&#xA;  Caesorum illa tu sentit micat vestes papyriferi&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#caesorum-illa-tu-sentit-micat-vestes-papyriferi&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Inde aderam facti; Theseus vis de tauri illa peream. Oculos &lt;strong&gt;uberaque&lt;/strong&gt; non&#xA;regisque vobis cursuque, opus venit quam vulnera. Et maiora necemque, lege modo;&#xA;gestanda nitidi, vero? Dum ne pectoraque testantur.&lt;/p&gt;&#xA;&lt;p&gt;Venasque repulsa Samos qui, exspectatum eram animosque hinc, &lt;a href=&#34;http://www.creveratnon.net/apricaaetheriis&#34;&gt;aut&#xA;manes&lt;/a&gt;, Assyrii. Cupiens auctoribus&#xA;pariter rubet, profana magni super nocens. Vos ius sibilat inpar turba visae&#xA;iusto! Sedes ante dum superest &lt;strong&gt;extrema&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/en/docs/example/hidden/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/docs/example/hidden/</guid>
+      <description>&lt;h1 id=&#34;this-page-is-hidden-in-menu&#34;&gt;&#xA;  This page is hidden in menu&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#this-page-is-hidden-in-menu&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;h1 id=&#34;quondam-non-pater-est-dignior-ille-eurotas&#34;&gt;&#xA;  Quondam non pater est dignior ille Eurotas&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#quondam-non-pater-est-dignior-ille-eurotas&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;latent-te-facies&#34;&gt;&#xA;  Latent te facies&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#latent-te-facies&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Lorem markdownum arma ignoscas vocavit quoque ille texit mandata mentis ultimus,&#xA;frementes, qui in vel. Hippotades Peleus &lt;a href=&#34;http://gratia.net/tot-qua.php&#34;&gt;pennas&#xA;conscia&lt;/a&gt; cuiquam Caeneus quas.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Pater demittere evincitque reddunt&lt;/li&gt;&#xA;&lt;li&gt;Maxime adhuc pressit huc Danaas quid freta&lt;/li&gt;&#xA;&lt;li&gt;Soror ego&lt;/li&gt;&#xA;&lt;li&gt;Luctus linguam saxa ultroque prior Tatiumque inquit&lt;/li&gt;&#xA;&lt;li&gt;Saepe liquitur subita superata dederat Anius sudor&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;cum-honorum-latona&#34;&gt;&#xA;  Cum honorum Latona&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#cum-honorum-latona&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;O fallor &lt;a href=&#34;http://www.spectataharundine.org/aquas-relinquit.html&#34;&gt;in sustinui&#xA;iussorum&lt;/a&gt; equidem.&#xA;Nymphae operi oris alii fronde parens dumque, in auro ait mox ingenti proxima&#xA;iamdudum maius?&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

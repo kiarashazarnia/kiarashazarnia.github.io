@@ -1,107 +1,61 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>فرکتال آشوبی</title><link>http://localhost:1313/fa/</link><description>Recent content on فرکتال آشوبی</description><generator>Hugo</generator><language>fa</language><lastBuildDate>Wed, 12 Jun 2024 13:00:00 +0330</lastBuildDate><atom:link href="http://localhost:1313/fa/index.xml" rel="self" type="application/rss+xml"/><item><title>With ToC</title><link>http://localhost:1313/fa/docs/example/table-of-contents/with-toc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/fa/docs/example/table-of-contents/with-toc/</guid><description>&lt;h1 id="caput-vino-delphine-in-tamen-vias">
- Caput vino delphine in tamen vias
- &lt;a class="anchor" href="#caput-vino-delphine-in-tamen-vias">#&lt;/a>
-&lt;/h1>
-&lt;h2 id="cognita-laeva-illo-fracta">
- Cognita laeva illo fracta
- &lt;a class="anchor" href="#cognita-laeva-illo-fracta">#&lt;/a>
-&lt;/h2>
-&lt;p>Lorem markdownum pavent auras, surgit nunc cingentibus libet &lt;strong>Laomedonque que&lt;/strong>
-est. Pastor &lt;a href="http://est.org/ire.aspx">An&lt;/a> arbor filia foedat, ne &lt;a href="http://www.indiciumturbam.org/moramquid.php">fugit
-aliter&lt;/a>, per. Helicona illas et
-callida neptem est &lt;em>Oresitrophos&lt;/em> caput, dentibus est venit. Tenet reddite
-&lt;a href="http://www.antro-et.net/">famuli&lt;/a> praesentem fortibus, quaeque vis foret si
-frondes &lt;em>gelidos&lt;/em> gravidae circumtulit &lt;a href="http://incurvasustulit.io/illi-virtute.html">inpulit armenta
-nativum&lt;/a>.&lt;/p>
-&lt;ol>
-&lt;li>Te at cruciabere vides rubentis manebo&lt;/li>
-&lt;li>Maturuit in praetemptat ruborem ignara postquam habitasse&lt;/li>
-&lt;li>Subitarum supplevit quoque fontesque venabula spretis modo&lt;/li>
-&lt;li>Montis tot est mali quasque gravis&lt;/li>
-&lt;li>Quinquennem domus arsit ipse&lt;/li>
-&lt;li>Pellem turis pugnabant locavit&lt;/li>
-&lt;/ol>
-&lt;h2 id="natus-quaerere">
- Natus quaerere
- &lt;a class="anchor" href="#natus-quaerere">#&lt;/a>
-&lt;/h2>
-&lt;p>Pectora et sine mulcere, coniuge dum tincta incurvae. Quis iam; est dextra
-Peneosque, metuis a verba, primo. Illa sed colloque suis: magno: gramen, aera
-excutiunt concipit.&lt;/p></description></item><item><title>Without ToC</title><link>http://localhost:1313/fa/docs/example/table-of-contents/without-toc/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/fa/docs/example/table-of-contents/without-toc/</guid><description>&lt;h1 id="at-me-ipso-nepotibus-nunc-celebratior-genus">
- At me ipso nepotibus nunc celebratior genus
- &lt;a class="anchor" href="#at-me-ipso-nepotibus-nunc-celebratior-genus">#&lt;/a>
-&lt;/h1>
-&lt;h2 id="tanto-oblite">
- Tanto oblite
- &lt;a class="anchor" href="#tanto-oblite">#&lt;/a>
-&lt;/h2>
-&lt;p>Lorem markdownum pectora novis patenti igne sua opus aurae feras materiaque
-illic demersit imago et aristas questaque posset. Vomit quoque suo inhaesuro
-clara. Esse cumque, per referri triste. Ut exponit solisque communis in tendens
-vincetis agisque iamque huic bene ante vetat omina Thebae rates. Aeacus servat
-admonitu concidit, ad resimas vultus et rugas vultu &lt;strong>dignamque&lt;/strong> Siphnon.&lt;/p>
-&lt;p>Quam iugulum regia simulacra, plus meruit humo pecorumque haesit, ab discedunt
-dixit: ritu pharetramque. Exul Laurenti orantem modo, per densum missisque labor
-manibus non colla unum, obiectat. Tu pervia collo, fessus quae Cretenque Myconon
-crate! Tegumenque quae invisi sudore per vocari quaque plus ventis fluidos. Nodo
-perque, fugisse pectora sorores.&lt;/p></description></item><item><title>اولین پست فارسی من</title><link>http://localhost:1313/fa/posts/first-post/</link><pubDate>Wed, 12 Jun 2024 13:00:00 +0330</pubDate><guid>http://localhost:1313/fa/posts/first-post/</guid><description>&lt;p>متن پست فارسی …&lt;/p></description></item><item><title>(Hu)go Template Primer</title><link>http://localhost:1313/fa/posts/goisforlovers/</link><pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate><guid>http://localhost:1313/fa/posts/goisforlovers/</guid><description>&lt;p>Hugo uses the excellent &lt;a href="https://golang.org/">Go&lt;/a> &lt;a href="https://golang.org/pkg/html/template/">html/template&lt;/a> library for
-its template engine. It is an extremely lightweight engine that provides a very
-small amount of logic. In our experience that it is just the right amount of
-logic to be able to create a good static website. If you have used other
-template systems from different languages or frameworks you will find a lot of
-similarities in Go templates.&lt;/p>
-&lt;p>This document is a brief primer on using Go templates. The &lt;a href="https://golang.org/pkg/html/template/">Go docs&lt;/a>
-provide more details.&lt;/p></description></item><item><title/><link>http://localhost:1313/fa/docs/example/collapsed/3rd-level/4th-level/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/fa/docs/example/collapsed/3rd-level/4th-level/</guid><description>&lt;h1 id="4th-level-of-menu">
- 4th Level of Menu
- &lt;a class="anchor" href="#4th-level-of-menu">#&lt;/a>
-&lt;/h1>
-&lt;h2 id="caesorum-illa-tu-sentit-micat-vestes-papyriferi">
- Caesorum illa tu sentit micat vestes papyriferi
- &lt;a class="anchor" href="#caesorum-illa-tu-sentit-micat-vestes-papyriferi">#&lt;/a>
-&lt;/h2>
-&lt;p>Inde aderam facti; Theseus vis de tauri illa peream. Oculos &lt;strong>uberaque&lt;/strong> non
-regisque vobis cursuque, opus venit quam vulnera. Et maiora necemque, lege modo;
-gestanda nitidi, vero? Dum ne pectoraque testantur.&lt;/p>
-&lt;p>Venasque repulsa Samos qui, exspectatum eram animosque hinc, &lt;a href="http://www.creveratnon.net/apricaaetheriis">aut
-manes&lt;/a>, Assyrii. Cupiens auctoribus
-pariter rubet, profana magni super nocens. Vos ius sibilat inpar turba visae
-iusto! Sedes ante dum superest &lt;strong>extrema&lt;/strong>.&lt;/p></description></item><item><title/><link>http://localhost:1313/fa/docs/example/hidden/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/fa/docs/example/hidden/</guid><description>&lt;h1 id="this-page-is-hidden-in-menu">
- This page is hidden in menu
- &lt;a class="anchor" href="#this-page-is-hidden-in-menu">#&lt;/a>
-&lt;/h1>
-&lt;h1 id="quondam-non-pater-est-dignior-ille-eurotas">
- Quondam non pater est dignior ille Eurotas
- &lt;a class="anchor" href="#quondam-non-pater-est-dignior-ille-eurotas">#&lt;/a>
-&lt;/h1>
-&lt;h2 id="latent-te-facies">
- Latent te facies
- &lt;a class="anchor" href="#latent-te-facies">#&lt;/a>
-&lt;/h2>
-&lt;p>Lorem markdownum arma ignoscas vocavit quoque ille texit mandata mentis ultimus,
-frementes, qui in vel. Hippotades Peleus &lt;a href="http://gratia.net/tot-qua.php">pennas
-conscia&lt;/a> cuiquam Caeneus quas.&lt;/p>
-&lt;ul>
-&lt;li>Pater demittere evincitque reddunt&lt;/li>
-&lt;li>Maxime adhuc pressit huc Danaas quid freta&lt;/li>
-&lt;li>Soror ego&lt;/li>
-&lt;li>Luctus linguam saxa ultroque prior Tatiumque inquit&lt;/li>
-&lt;li>Saepe liquitur subita superata dederat Anius sudor&lt;/li>
-&lt;/ul>
-&lt;h2 id="cum-honorum-latona">
- Cum honorum Latona
- &lt;a class="anchor" href="#cum-honorum-latona">#&lt;/a>
-&lt;/h2>
-&lt;p>O fallor &lt;a href="http://www.spectataharundine.org/aquas-relinquit.html">in sustinui
-iussorum&lt;/a> equidem.
-Nymphae operi oris alii fronde parens dumque, in auro ait mox ingenti proxima
-iamdudum maius?&lt;/p></description></item><item><title/><link>http://localhost:1313/fa/posts/taking-over-the-ownership-of-a-service-guideline/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>http://localhost:1313/fa/posts/taking-over-the-ownership-of-a-service-guideline/</guid><description>&lt;h1 id="راهنمای-تحویل-گرفتن-یک-سرویس">
- راهنمای تحویل گرفتن یک سرویس
- &lt;a class="anchor" href="#%d8%b1%d8%a7%d9%87%d9%86%d9%85%d8%a7%db%8c-%d8%aa%d8%ad%d9%88%db%8c%d9%84-%da%af%d8%b1%d9%81%d8%aa%d9%86-%db%8c%da%a9-%d8%b3%d8%b1%d9%88%db%8c%d8%b3">#&lt;/a>
-&lt;/h1>
-&lt;h4 id="چگونه-خیلی-خوب-و-سریع-روی-یک-سرویس-آنبورد-onboard-شویم">
- &lt;strong>چگونه خیلی خوب و سریع روی یک سرویس، آنبورد (Onboard) شویم؟&lt;/strong>
- &lt;a class="anchor" href="#%da%86%da%af%d9%88%d9%86%d9%87-%d8%ae%db%8c%d9%84%db%8c-%d8%ae%d9%88%d8%a8-%d9%88-%d8%b3%d8%b1%db%8c%d8%b9-%d8%b1%d9%88%db%8c-%db%8c%da%a9-%d8%b3%d8%b1%d9%88%db%8c%d8%b3-%d8%a2%d9%86%d8%a8%d9%88%d8%b1%d8%af-onboard-%d8%b4%d9%88%db%8c%d9%85">#&lt;/a>
-&lt;/h4>
-&lt;p>&lt;img src="https://files.virgool.io/upload/users/16986/posts/wjkeueffxspb/sywlnivsi3b9.jpeg" alt="آنبوردینگ همیشه و همه‌جا" />&lt;/p>
-&lt;p>آنبوردینگ همیشه و همه‌جا&lt;/p>
-&lt;p>بازار نرم‌افزار سیال و پر رفتامد است درست مثل خود نرم‌افزار! جابجایی نیروها در بین تیم‌ها و شرکت‌ها پربسامد است. امروز وارد یک تیم می‌شوید. ماه بعد تیم شما با تیم دیگری ادغام می‌شود. ماه بعدی عضو کلیدی از تیم جدا می‌شود. پررنگ‌ترین حالت این چالش، جدایی اعضای ارشد (Senior) سازمان است که در روزها و سال‌های اخیر خصوصا در بازار نرم‌افزار ایران بسیار رایج است؛ به امید روزهای بهتر برای این آب و خاک.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>فرکتال آشوبی</title>
+    <link>http://localhost:1313/fa/</link>
+    <description>Recent content on فرکتال آشوبی</description>
+    <generator>Hugo</generator>
+    <language>fa</language>
+    <lastBuildDate>Wed, 12 Jun 2024 13:00:00 +0330</lastBuildDate>
+    <atom:link href="http://localhost:1313/fa/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>With ToC</title>
+      <link>http://localhost:1313/fa/docs/example/table-of-contents/with-toc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fa/docs/example/table-of-contents/with-toc/</guid>
+      <description>&lt;h1 id=&#34;caput-vino-delphine-in-tamen-vias&#34;&gt;&#xA;  Caput vino delphine in tamen vias&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#caput-vino-delphine-in-tamen-vias&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;cognita-laeva-illo-fracta&#34;&gt;&#xA;  Cognita laeva illo fracta&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#cognita-laeva-illo-fracta&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Lorem markdownum pavent auras, surgit nunc cingentibus libet &lt;strong&gt;Laomedonque que&lt;/strong&gt;&#xA;est. Pastor &lt;a href=&#34;http://est.org/ire.aspx&#34;&gt;An&lt;/a&gt; arbor filia foedat, ne &lt;a href=&#34;http://www.indiciumturbam.org/moramquid.php&#34;&gt;fugit&#xA;aliter&lt;/a&gt;, per. Helicona illas et&#xA;callida neptem est &lt;em&gt;Oresitrophos&lt;/em&gt; caput, dentibus est venit. Tenet reddite&#xA;&lt;a href=&#34;http://www.antro-et.net/&#34;&gt;famuli&lt;/a&gt; praesentem fortibus, quaeque vis foret si&#xA;frondes &lt;em&gt;gelidos&lt;/em&gt; gravidae circumtulit &lt;a href=&#34;http://incurvasustulit.io/illi-virtute.html&#34;&gt;inpulit armenta&#xA;nativum&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Te at cruciabere vides rubentis manebo&lt;/li&gt;&#xA;&lt;li&gt;Maturuit in praetemptat ruborem ignara postquam habitasse&lt;/li&gt;&#xA;&lt;li&gt;Subitarum supplevit quoque fontesque venabula spretis modo&lt;/li&gt;&#xA;&lt;li&gt;Montis tot est mali quasque gravis&lt;/li&gt;&#xA;&lt;li&gt;Quinquennem domus arsit ipse&lt;/li&gt;&#xA;&lt;li&gt;Pellem turis pugnabant locavit&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;natus-quaerere&#34;&gt;&#xA;  Natus quaerere&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#natus-quaerere&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Pectora et sine mulcere, coniuge dum tincta incurvae. Quis iam; est dextra&#xA;Peneosque, metuis a verba, primo. Illa sed colloque suis: magno: gramen, aera&#xA;excutiunt concipit.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Without ToC</title>
+      <link>http://localhost:1313/fa/docs/example/table-of-contents/without-toc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fa/docs/example/table-of-contents/without-toc/</guid>
+      <description>&lt;h1 id=&#34;at-me-ipso-nepotibus-nunc-celebratior-genus&#34;&gt;&#xA;  At me ipso nepotibus nunc celebratior genus&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#at-me-ipso-nepotibus-nunc-celebratior-genus&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;tanto-oblite&#34;&gt;&#xA;  Tanto oblite&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#tanto-oblite&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Lorem markdownum pectora novis patenti igne sua opus aurae feras materiaque&#xA;illic demersit imago et aristas questaque posset. Vomit quoque suo inhaesuro&#xA;clara. Esse cumque, per referri triste. Ut exponit solisque communis in tendens&#xA;vincetis agisque iamque huic bene ante vetat omina Thebae rates. Aeacus servat&#xA;admonitu concidit, ad resimas vultus et rugas vultu &lt;strong&gt;dignamque&lt;/strong&gt; Siphnon.&lt;/p&gt;&#xA;&lt;p&gt;Quam iugulum regia simulacra, plus meruit humo pecorumque haesit, ab discedunt&#xA;dixit: ritu pharetramque. Exul Laurenti orantem modo, per densum missisque labor&#xA;manibus non colla unum, obiectat. Tu pervia collo, fessus quae Cretenque Myconon&#xA;crate! Tegumenque quae invisi sudore per vocari quaque plus ventis fluidos. Nodo&#xA;perque, fugisse pectora sorores.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>اولین پست فارسی من</title>
+      <link>http://localhost:1313/fa/posts/first-post/</link>
+      <pubDate>Wed, 12 Jun 2024 13:00:00 +0330</pubDate>
+      <guid>http://localhost:1313/fa/posts/first-post/</guid>
+      <description>&lt;p&gt;متن پست فارسی …&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>(Hu)go Template Primer</title>
+      <link>http://localhost:1313/fa/posts/goisforlovers/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fa/posts/goisforlovers/</guid>
+      <description>&lt;p&gt;Hugo uses the excellent &lt;a href=&#34;https://golang.org/&#34;&gt;Go&lt;/a&gt; &lt;a href=&#34;https://golang.org/pkg/html/template/&#34;&gt;html/template&lt;/a&gt; library for&#xA;its template engine. It is an extremely lightweight engine that provides a very&#xA;small amount of logic. In our experience that it is just the right amount of&#xA;logic to be able to create a good static website. If you have used other&#xA;template systems from different languages or frameworks you will find a lot of&#xA;similarities in Go templates.&lt;/p&gt;&#xA;&lt;p&gt;This document is a brief primer on using Go templates. The &lt;a href=&#34;https://golang.org/pkg/html/template/&#34;&gt;Go docs&lt;/a&gt;&#xA;provide more details.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/fa/docs/example/collapsed/3rd-level/4th-level/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fa/docs/example/collapsed/3rd-level/4th-level/</guid>
+      <description>&lt;h1 id=&#34;4th-level-of-menu&#34;&gt;&#xA;  4th Level of Menu&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#4th-level-of-menu&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;caesorum-illa-tu-sentit-micat-vestes-papyriferi&#34;&gt;&#xA;  Caesorum illa tu sentit micat vestes papyriferi&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#caesorum-illa-tu-sentit-micat-vestes-papyriferi&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Inde aderam facti; Theseus vis de tauri illa peream. Oculos &lt;strong&gt;uberaque&lt;/strong&gt; non&#xA;regisque vobis cursuque, opus venit quam vulnera. Et maiora necemque, lege modo;&#xA;gestanda nitidi, vero? Dum ne pectoraque testantur.&lt;/p&gt;&#xA;&lt;p&gt;Venasque repulsa Samos qui, exspectatum eram animosque hinc, &lt;a href=&#34;http://www.creveratnon.net/apricaaetheriis&#34;&gt;aut&#xA;manes&lt;/a&gt;, Assyrii. Cupiens auctoribus&#xA;pariter rubet, profana magni super nocens. Vos ius sibilat inpar turba visae&#xA;iusto! Sedes ante dum superest &lt;strong&gt;extrema&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/fa/docs/example/hidden/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fa/docs/example/hidden/</guid>
+      <description>&lt;h1 id=&#34;this-page-is-hidden-in-menu&#34;&gt;&#xA;  This page is hidden in menu&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#this-page-is-hidden-in-menu&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;h1 id=&#34;quondam-non-pater-est-dignior-ille-eurotas&#34;&gt;&#xA;  Quondam non pater est dignior ille Eurotas&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#quondam-non-pater-est-dignior-ille-eurotas&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;h2 id=&#34;latent-te-facies&#34;&gt;&#xA;  Latent te facies&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#latent-te-facies&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Lorem markdownum arma ignoscas vocavit quoque ille texit mandata mentis ultimus,&#xA;frementes, qui in vel. Hippotades Peleus &lt;a href=&#34;http://gratia.net/tot-qua.php&#34;&gt;pennas&#xA;conscia&lt;/a&gt; cuiquam Caeneus quas.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Pater demittere evincitque reddunt&lt;/li&gt;&#xA;&lt;li&gt;Maxime adhuc pressit huc Danaas quid freta&lt;/li&gt;&#xA;&lt;li&gt;Soror ego&lt;/li&gt;&#xA;&lt;li&gt;Luctus linguam saxa ultroque prior Tatiumque inquit&lt;/li&gt;&#xA;&lt;li&gt;Saepe liquitur subita superata dederat Anius sudor&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;cum-honorum-latona&#34;&gt;&#xA;  Cum honorum Latona&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#cum-honorum-latona&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h2&gt;&#xA;&lt;p&gt;O fallor &lt;a href=&#34;http://www.spectataharundine.org/aquas-relinquit.html&#34;&gt;in sustinui&#xA;iussorum&lt;/a&gt; equidem.&#xA;Nymphae operi oris alii fronde parens dumque, in auro ait mox ingenti proxima&#xA;iamdudum maius?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/fa/posts/taking-over-the-ownership-of-a-service-guideline/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fa/posts/taking-over-the-ownership-of-a-service-guideline/</guid>
+      <description>&lt;h1 id=&#34;راهنمای-تحویل-گرفتن-یک-سرویس&#34;&gt;&#xA;  راهنمای تحویل گرفتن یک سرویس&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%d8%b1%d8%a7%d9%87%d9%86%d9%85%d8%a7%db%8c-%d8%aa%d8%ad%d9%88%db%8c%d9%84-%da%af%d8%b1%d9%81%d8%aa%d9%86-%db%8c%da%a9-%d8%b3%d8%b1%d9%88%db%8c%d8%b3&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;h4 id=&#34;چگونه-خیلی-خوب-و-سریع-روی-یک-سرویس-آنبورد-onboard-شویم&#34;&gt;&#xA;  &lt;strong&gt;چگونه خیلی خوب و سریع روی یک سرویس، آنبورد (Onboard) شویم؟&lt;/strong&gt;&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#%da%86%da%af%d9%88%d9%86%d9%87-%d8%ae%db%8c%d9%84%db%8c-%d8%ae%d9%88%d8%a8-%d9%88-%d8%b3%d8%b1%db%8c%d8%b9-%d8%b1%d9%88%db%8c-%db%8c%da%a9-%d8%b3%d8%b1%d9%88%db%8c%d8%b3-%d8%a2%d9%86%d8%a8%d9%88%d8%b1%d8%af-onboard-%d8%b4%d9%88%db%8c%d9%85&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h4&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://files.virgool.io/upload/users/16986/posts/wjkeueffxspb/sywlnivsi3b9.jpeg&#34; alt=&#34;آنبوردینگ همیشه و همه‌جا&#34; /&gt;&lt;/p&gt;&#xA;&lt;p&gt;آنبوردینگ همیشه و همه‌جا&lt;/p&gt;&#xA;&lt;p&gt;بازار نرم‌افزار سیال و پر رفتامد است درست مثل خود نرم‌افزار! جابجایی نیروها در بین تیم‌ها و شرکت‌ها پربسامد است. امروز وارد یک تیم می‌شوید. ماه بعد تیم شما با تیم دیگری ادغام می‌شود. ماه بعدی عضو کلیدی از تیم جدا می‌شود. پررنگ‌ترین حالت این چالش، جدایی اعضای ارشد (Senior) سازمان است که در روزها و سال‌های اخیر خصوصا در بازار نرم‌افزار ایران بسیار رایج است؛ به امید روزهای بهتر برای این آب و خاک.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
